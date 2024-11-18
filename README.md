@@ -1,5 +1,11 @@
 ## 📚 Мои небольшие pet-проекты по Data Science/Data Analysis
 
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=,pycharm,numpy,pandas,pytorch,huggingface,matplotlib,seaborn,sklearn,tensorflow,jupyter,streamlit&theme=dark" />
+  </a>
+</p>
+
 Коллекция исследовательских и учебных проектов, реализованных в Google Colab:
 
 | **Название проекта**                          | **Описание**                                                                                                 | **Технологии и подходы**                                                                                                                                     |
