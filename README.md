@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=,pycharm,numpy,pandas,pytorch,huggingface,matplotlib,seaborn,sklearn,tensorflow,jupyter,streamlit&theme=dark" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=,pycharm,numpy,pandas,pytorch,matplotlib,seaborn,sklearn,tensorflow,jupyter,stackoverflow&theme=dark" />
   </a>
 </p>
 
